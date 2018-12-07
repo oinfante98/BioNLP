@@ -1,0 +1,280 @@
+SVMrbfNoneTrue11fBest score make_scorer(f1_score, average=weighted): 0.9630730999290297
+SVC(C=6.293188712976175, cache_size=200, class_weight=None, coef0=0.0,
+  decision_function_shape='ovr', degree=3, gamma=0.12629621452838216,
+  kernel='rbf', max_iter=-1, probability=False, random_state=None,
+  shrinking=True, tol=0.001, verbose=False)
+SVMrbfNoneTrue11fBest score make_scorer(f1_score, average=weighted): 0.9622021364295513
+SVC(C=46.9716057309644, cache_size=200, class_weight=None, coef0=0.0,
+  decision_function_shape='ovr', degree=3, gamma=0.012749267590325106,
+  kernel='rbf', max_iter=-1, probability=False, random_state=None,
+  shrinking=True, tol=0.001, verbose=False)
+SVMlinearNoneFalse11bBest score make_scorer(f1_score, average=weighted): 0.962312748796761
+SVC(C=197.07433093693066, cache_size=200, class_weight=None, coef0=0.0,
+  decision_function_shape='ovr', degree=3, gamma='auto', kernel='linear',
+  max_iter=-1, probability=False, random_state=None, shrinking=True,
+  tol=0.001, verbose=False)
+SVMlinearNoneFalse11bBest score make_scorer(f1_score, average=weighted): 0.962312748796761
+SVC(C=32.55376984332873, cache_size=200, class_weight=None, coef0=0.0,
+  decision_function_shape='ovr', degree=3, gamma='auto', kernel='linear',
+  max_iter=-1, probability=False, random_state=None, shrinking=True,
+  tol=0.001, verbose=False)
+SVMrbfNoneFalse11bBest score make_scorer(f1_score, average=weighted): 0.962312748796761
+SVC(C=52.06530494245701, cache_size=200, class_weight=None, coef0=0.0,
+  decision_function_shape='ovr', degree=3, gamma=0.03436288974577182,
+  kernel='rbf', max_iter=-1, probability=False, random_state=None,
+  shrinking=True, tol=0.001, verbose=False)
+SVMrbfNoneFalse11bBest score make_scorer(f1_score, average=weighted): 0.962312748796761
+SVC(C=11.69429289199018, cache_size=200, class_weight=None, coef0=0.0,
+  decision_function_shape='ovr', degree=3, gamma=0.051433702838918766,
+  kernel='rbf', max_iter=-1, probability=False, random_state=None,
+  shrinking=True, tol=0.001, verbose=False)
+SVMlinearNoneFalse11tBest score make_scorer(f1_score, average=weighted): 0.962312748796761
+SVC(C=243.89122176602675, cache_size=200, class_weight=None, coef0=0.0,
+  decision_function_shape='ovr', degree=3, gamma='auto', kernel='linear',
+  max_iter=-1, probability=False, random_state=None, shrinking=True,
+  tol=0.001, verbose=False)
+SVMlinearNoneFalse11tBest score make_scorer(f1_score, average=weighted): 0.962312748796761
+SVC(C=120.8436257231327, cache_size=200, class_weight=None, coef0=0.0,
+  decision_function_shape='ovr', degree=3, gamma='auto', kernel='linear',
+  max_iter=-1, probability=False, random_state=None, shrinking=True,
+  tol=0.001, verbose=False)
+SVMrbfNoneFalse11tBest score make_scorer(f1_score, average=weighted): 0.962312748796761
+SVC(C=168.35523097032342, cache_size=200, class_weight=None, coef0=0.0,
+  decision_function_shape='ovr', degree=3, gamma=0.02274512538477511,
+  kernel='rbf', max_iter=-1, probability=False, random_state=None,
+  shrinking=True, tol=0.001, verbose=False)
+SVMrbfNoneFalse11tBest score make_scorer(f1_score, average=weighted): 0.9623663260471762
+SVC(C=294.87782689407754, cache_size=200, class_weight=None, coef0=0.0,
+  decision_function_shape='ovr', degree=3, gamma=0.30028431609717576,
+  kernel='rbf', max_iter=-1, probability=False, random_state=None,
+  shrinking=True, tol=0.001, verbose=False)
+SVMlinearNoneFalse11fBest score make_scorer(f1_score, average=weighted): 0.962312748796761
+SVC(C=92.11291948445752, cache_size=200, class_weight=None, coef0=0.0,
+  decision_function_shape='ovr', degree=3, gamma='auto', kernel='linear',
+  max_iter=-1, probability=False, random_state=None, shrinking=True,
+  tol=0.001, verbose=False)
+SVMlinearNoneFalse11fBest score make_scorer(f1_score, average=weighted): 0.962312748796761
+SVC(C=230.23297915905192, cache_size=200, class_weight=None, coef0=0.0,
+  decision_function_shape='ovr', degree=3, gamma='auto', kernel='linear',
+  max_iter=-1, probability=False, random_state=None, shrinking=True,
+  tol=0.001, verbose=False)
+SVMrbfNoneFalse11fBest score make_scorer(f1_score, average=weighted): 0.9628042131040312
+SVC(C=34.005618618616964, cache_size=200, class_weight=None, coef0=0.0,
+  decision_function_shape='ovr', degree=3, gamma=0.09003861938817354,
+  kernel='rbf', max_iter=-1, probability=False, random_state=None,
+  shrinking=True, tol=0.001, verbose=False)
+SVMrbfNoneFalse11fBest score make_scorer(f1_score, average=weighted): 0.9630687448478104
+SVC(C=100.37121752477947, cache_size=200, class_weight=None, coef0=0.0,
+  decision_function_shape='ovr', degree=3, gamma=0.3491800570324404,
+  kernel='rbf', max_iter=-1, probability=False, random_state=None,
+  shrinking=True, tol=0.001, verbose=False)
+SVMlinearNoneTrue22bBest score make_scorer(f1_score, average=weighted): 0.9622760127586246
+SVC(C=108.94150470011625, cache_size=200, class_weight=None, coef0=0.0,
+  decision_function_shape='ovr', degree=3, gamma='auto', kernel='linear',
+  max_iter=-1, probability=False, random_state=None, shrinking=True,
+  tol=0.001, verbose=False)
+SVMlinearNoneTrue22bBest score make_scorer(f1_score, average=weighted): 0.9620317200353198
+SVC(C=10.954537541422367, cache_size=200, class_weight=None, coef0=0.0,
+  decision_function_shape='ovr', degree=3, gamma='auto', kernel='linear',
+  max_iter=-1, probability=False, random_state=None, shrinking=True,
+  tol=0.001, verbose=False)
+SVMrbfNoneTrue22bBest score make_scorer(f1_score, average=weighted): 0.9631036215965155
+SVC(C=25.49181024942428, cache_size=200, class_weight=None, coef0=0.0,
+  decision_function_shape='ovr', degree=3, gamma=0.14405757657550372,
+  kernel='rbf', max_iter=-1, probability=False, random_state=None,
+  shrinking=True, tol=0.001, verbose=False)
+SVMrbfNoneTrue22bBest score make_scorer(f1_score, average=weighted): 0.963257687030088
+SVC(C=26.208072318656278, cache_size=200, class_weight=None, coef0=0.0,
+  decision_function_shape='ovr', degree=3, gamma=0.10447458207279257,
+  kernel='rbf', max_iter=-1, probability=False, random_state=None,
+  shrinking=True, tol=0.001, verbose=False)
+SVMlinearNoneTrue22tBest score make_scorer(f1_score, average=weighted): 0.9622760127586246
+SVC(C=294.1868158287296, cache_size=200, class_weight=None, coef0=0.0,
+  decision_function_shape='ovr', degree=3, gamma='auto', kernel='linear',
+  max_iter=-1, probability=False, random_state=None, shrinking=True,
+  tol=0.001, verbose=False)
+SVMlinearNoneTrue22tBest score make_scorer(f1_score, average=weighted): 0.9623469416268663
+SVC(C=8.289064901457852, cache_size=200, class_weight=None, coef0=0.0,
+  decision_function_shape='ovr', degree=3, gamma='auto', kernel='linear',
+  max_iter=-1, probability=False, random_state=None, shrinking=True,
+  tol=0.001, verbose=False)
+SVMrbfNoneTrue22tBest score make_scorer(f1_score, average=weighted): 0.9623846905623615
+SVC(C=7.236797898532485, cache_size=200, class_weight=None, coef0=0.0,
+  decision_function_shape='ovr', degree=3, gamma=0.27653290890641136,
+  kernel='rbf', max_iter=-1, probability=False, random_state=None,
+  shrinking=True, tol=0.001, verbose=False)
+SVMrbfNoneTrue22tBest score make_scorer(f1_score, average=weighted): 0.9630026507993954
+SVC(C=208.04308793932432, cache_size=200, class_weight=None, coef0=0.0,
+  decision_function_shape='ovr', degree=3, gamma=0.09297630492948793,
+  kernel='rbf', max_iter=-1, probability=False, random_state=None,
+  shrinking=True, tol=0.001, verbose=False)
+SVMlinearNoneTrue22fBest score make_scorer(f1_score, average=weighted): 0.962312748796761
+SVC(C=0.3274496129918745, cache_size=200, class_weight=None, coef0=0.0,
+  decision_function_shape='ovr', degree=3, gamma='auto', kernel='linear',
+  max_iter=-1, probability=False, random_state=None, shrinking=True,
+  tol=0.001, verbose=False)
+SVMlinearNoneTrue22fBest score make_scorer(f1_score, average=weighted): 0.9620317337057503
+SVC(C=14.546239407603972, cache_size=200, class_weight=None, coef0=0.0,
+  decision_function_shape='ovr', degree=3, gamma='auto', kernel='linear',
+  max_iter=-1, probability=False, random_state=None, shrinking=True,
+  tol=0.001, verbose=False)
+SVMrbfNoneTrue22fBest score make_scorer(f1_score, average=weighted): 0.9638978956329539
+SVC(C=277.5873978604464, cache_size=200, class_weight=None, coef0=0.0,
+  decision_function_shape='ovr', degree=3, gamma=0.023553349288536012,
+  kernel='rbf', max_iter=-1, probability=False, random_state=None,
+  shrinking=True, tol=0.001, verbose=False)
+SVMrbfNoneTrue22fBest score make_scorer(f1_score, average=weighted): 0.9634209189113535
+SVC(C=77.78932006912179, cache_size=200, class_weight=None, coef0=0.0,
+  decision_function_shape='ovr', degree=3, gamma=0.18316696454848513,
+  kernel='rbf', max_iter=-1, probability=False, random_state=None,
+  shrinking=True, tol=0.001, verbose=False)
+SVMlinearNoneFalse22bBest score make_scorer(f1_score, average=weighted): 0.9622760127586246
+SVC(C=17.26731604822418, cache_size=200, class_weight=None, coef0=0.0,
+  decision_function_shape='ovr', degree=3, gamma='auto', kernel='linear',
+  max_iter=-1, probability=False, random_state=None, shrinking=True,
+  tol=0.001, verbose=False)
+SVMlinearNoneFalse22bBest score make_scorer(f1_score, average=weighted): 0.962181646975971
+SVC(C=2.1395510034094998, cache_size=200, class_weight=None, coef0=0.0,
+  decision_function_shape='ovr', degree=3, gamma='auto', kernel='linear',
+  max_iter=-1, probability=False, random_state=None, shrinking=True,
+  tol=0.001, verbose=False)
+SVMrbfNoneFalse22bBest score make_scorer(f1_score, average=weighted): 0.9632247102726078
+SVC(C=117.39125085968725, cache_size=200, class_weight=None, coef0=0.0,
+  decision_function_shape='ovr', degree=3, gamma=0.043647310140159025,
+  kernel='rbf', max_iter=-1, probability=False, random_state=None,
+  shrinking=True, tol=0.001, verbose=False)
+SVMrbfNoneFalse22bBest score make_scorer(f1_score, average=weighted): 0.9637840302487695
+SVC(C=22.933557315832342, cache_size=200, class_weight=None, coef0=0.0,
+  decision_function_shape='ovr', degree=3, gamma=0.3670729216541526,
+  kernel='rbf', max_iter=-1, probability=False, random_state=None,
+  shrinking=True, tol=0.001, verbose=False)
+SVMlinearCHI250False22fBest score make_scorer(f1_score, average=weighted): 0.962312748796761
+SVC(C=109.57913335361728, cache_size=200, class_weight=None, coef0=0.0,
+  decision_function_shape='ovr', degree=3, gamma='auto', kernel='linear',
+  max_iter=-1, probability=False, random_state=None, shrinking=True,
+  tol=0.001, verbose=False)
+SVMlinearCHI250False22fBest score make_scorer(f1_score, average=weighted): 0.9623836706572368
+SVC(C=60.49464464657479, cache_size=200, class_weight=None, coef0=0.0,
+  decision_function_shape='ovr', degree=3, gamma='auto', kernel='linear',
+  max_iter=-1, probability=False, random_state=None, shrinking=True,
+  tol=0.001, verbose=False)
+SVMrbfCHI250False22fBest score make_scorer(f1_score, average=weighted): 0.963298582173975
+SVC(C=105.88006049011535, cache_size=200, class_weight=None, coef0=0.0,
+  decision_function_shape='ovr', degree=3, gamma=0.24866779395089011,
+  kernel='rbf', max_iter=-1, probability=False, random_state=None,
+  shrinking=True, tol=0.001, verbose=False)
+SVMrbfCHI250False22fBest score make_scorer(f1_score, average=weighted): 0.9618699002427175
+SVC(C=122.22049488086965, cache_size=200, class_weight=None, coef0=0.0,
+  decision_function_shape='ovr', degree=3, gamma=0.024515863509942025,
+  kernel='rbf', max_iter=-1, probability=False, random_state=None,
+  shrinking=True, tol=0.001, verbose=False)
+SVMlinearCHI250True12fBest score make_scorer(f1_score, average=weighted): 0.962312748796761
+SVC(C=203.83294315357438, cache_size=200, class_weight=None, coef0=0.0,
+  decision_function_shape='ovr', degree=3, gamma='auto', kernel='linear',
+  max_iter=-1, probability=False, random_state=None, shrinking=True,
+  tol=0.001, verbose=False)
+SVMlinearCHI250True12fBest score make_scorer(f1_score, average=weighted): 0.9623836706572368
+SVC(C=108.21226076978654, cache_size=200, class_weight=None, coef0=0.0,
+  decision_function_shape='ovr', degree=3, gamma='auto', kernel='linear',
+  max_iter=-1, probability=False, random_state=None, shrinking=True,
+  tol=0.001, verbose=False)
+SVMrbfCHI250True12fBest score make_scorer(f1_score, average=weighted): 0.9642488540080095
+SVC(C=138.91085343577433, cache_size=200, class_weight=None, coef0=0.0,
+  decision_function_shape='ovr', degree=3, gamma=0.025285404755822655,
+  kernel='rbf', max_iter=-1, probability=False, random_state=None,
+  shrinking=True, tol=0.001, verbose=False)
+SVMrbfCHI250True12fBest score make_scorer(f1_score, average=weighted): 0.9626442754064263
+SVC(C=35.41730717786041, cache_size=200, class_weight=None, coef0=0.0,
+  decision_function_shape='ovr', degree=3, gamma=0.11112164322899334,
+  kernel='rbf', max_iter=-1, probability=False, random_state=None,
+  shrinking=True, tol=0.001, verbose=False)
+SVMlinearNoneTrue11bBest score make_scorer(f1_score, average=weighted): 0.962312748796761
+SVC(C=40.05807300112244, cache_size=200, class_weight=None, coef0=0.0,
+  decision_function_shape='ovr', degree=3, gamma='auto', kernel='linear',
+  max_iter=-1, probability=False, random_state=None, shrinking=True,
+  tol=0.001, verbose=False)
+SVMlinearNoneTrue11bBest score make_scorer(f1_score, average=weighted): 0.962312748796761
+SVC(C=10.58998656830039, cache_size=200, class_weight=None, coef0=0.0,
+  decision_function_shape='ovr', degree=3, gamma='auto', kernel='linear',
+  max_iter=-1, probability=False, random_state=None, shrinking=True,
+  tol=0.001, verbose=False)
+SVMrbfNoneTrue11bBest score make_scorer(f1_score, average=weighted): 0.962312748796761
+SVC(C=13.442659087971611, cache_size=200, class_weight=None, coef0=0.0,
+  decision_function_shape='ovr', degree=3, gamma=0.062440081855957535,
+  kernel='rbf', max_iter=-1, probability=False, random_state=None,
+  shrinking=True, tol=0.001, verbose=False)
+SVMrbfNoneTrue11bBest score make_scorer(f1_score, average=weighted): 0.962312748796761
+SVC(C=185.41577441881105, cache_size=200, class_weight=None, coef0=0.0,
+  decision_function_shape='ovr', degree=3, gamma=0.0038655726374890865,
+  kernel='rbf', max_iter=-1, probability=False, random_state=None,
+  shrinking=True, tol=0.001, verbose=False)
+SVMlinearNoneTrue11tBest score make_scorer(f1_score, average=weighted): 0.962312748796761
+SVC(C=5.647761873812572, cache_size=200, class_weight=None, coef0=0.0,
+  decision_function_shape='ovr', degree=3, gamma='auto', kernel='linear',
+  max_iter=-1, probability=False, random_state=None, shrinking=True,
+  tol=0.001, verbose=False)
+SVMlinearNoneTrue11tBest score make_scorer(f1_score, average=weighted): 0.962312748796761
+SVC(C=4.549193963371876, cache_size=200, class_weight=None, coef0=0.0,
+  decision_function_shape='ovr', degree=3, gamma='auto', kernel='linear',
+  max_iter=-1, probability=False, random_state=None, shrinking=True,
+  tol=0.001, verbose=False)
+SVMrbfNoneTrue11tBest score make_scorer(f1_score, average=weighted): 0.962312748796761
+SVC(C=30.029327732061738, cache_size=200, class_weight=None, coef0=0.0,
+  decision_function_shape='ovr', degree=3, gamma=0.015621923481822467,
+  kernel='rbf', max_iter=-1, probability=False, random_state=None,
+  shrinking=True, tol=0.001, verbose=False)
+SVMrbfNoneTrue11tBest score make_scorer(f1_score, average=weighted): 0.962312748796761
+SVC(C=37.29160809612519, cache_size=200, class_weight=None, coef0=0.0,
+  decision_function_shape='ovr', degree=3, gamma=0.23689638544583597,
+  kernel='rbf', max_iter=-1, probability=False, random_state=None,
+  shrinking=True, tol=0.001, verbose=False)
+SVMlinearNoneTrue11fBest score make_scorer(f1_score, average=weighted): 0.962312748796761
+SVC(C=85.96536946503136, cache_size=200, class_weight=None, coef0=0.0,
+  decision_function_shape='ovr', degree=3, gamma='auto', kernel='linear',
+  max_iter=-1, probability=False, random_state=None, shrinking=True,
+  tol=0.001, verbose=False)
+SVMlinearNoneFalse11bBest score make_scorer(f1_score, average=weighted): 0.962312748796761
+SVC(C=18.643573872111887, cache_size=200, class_weight=None, coef0=0.0,
+  decision_function_shape='ovr', degree=3, gamma='auto', kernel='linear',
+  max_iter=-1, probability=False, random_state=None, shrinking=True,
+  tol=0.001, verbose=False)
+SVMlinearNoneFalse11bBest score make_scorer(f1_score, average=weighted): 0.962312748796761
+SVC(C=22.2158685765635, cache_size=200, class_weight=None, coef0=0.0,
+  decision_function_shape='ovr', degree=3, gamma='auto', kernel='linear',
+  max_iter=-1, probability=False, random_state=None, shrinking=True,
+  tol=0.001, verbose=False)
+SVMrbfNoneFalse11bBest score make_scorer(f1_score, average=weighted): 0.962312748796761
+SVC(C=6.80412895628323, cache_size=200, class_weight=None, coef0=0.0,
+  decision_function_shape='ovr', degree=3, gamma=0.0723944705320017,
+  kernel='rbf', max_iter=-1, probability=False, random_state=None,
+  shrinking=True, tol=0.001, verbose=False)
+SVMrbfNoneFalse11bBest score make_scorer(f1_score, average=weighted): 0.962312748796761
+SVC(C=10.581419829356667, cache_size=200, class_weight=None, coef0=0.0,
+  decision_function_shape='ovr', degree=3, gamma=0.037860745515770164,
+  kernel='rbf', max_iter=-1, probability=False, random_state=None,
+  shrinking=True, tol=0.001, verbose=False)
+SVMlinearNoneFalse11tBest score make_scorer(f1_score, average=weighted): 0.962312748796761
+SVC(C=101.92502596282085, cache_size=200, class_weight=None, coef0=0.0,
+  decision_function_shape='ovr', degree=3, gamma='auto', kernel='linear',
+  max_iter=-1, probability=False, random_state=None, shrinking=True,
+  tol=0.001, verbose=False)
+SVMlinearNoneFalse11tBest score make_scorer(f1_score, average=weighted): 0.962312748796761
+SVC(C=59.960322553124335, cache_size=200, class_weight=None, coef0=0.0,
+  decision_function_shape='ovr', degree=3, gamma='auto', kernel='linear',
+  max_iter=-1, probability=False, random_state=None, shrinking=True,
+  tol=0.001, verbose=False)
+SVMrbfNoneFalse11tBest score make_scorer(f1_score, average=weighted): 0.962312748796761
+SVC(C=5.585307598575087, cache_size=200, class_weight=None, coef0=0.0,
+  decision_function_shape='ovr', degree=3, gamma=0.027185598583086612,
+  kernel='rbf', max_iter=-1, probability=False, random_state=None,
+  shrinking=True, tol=0.001, verbose=False)
+SVMrbfNoneFalse11tBest score make_scorer(f1_score, average=weighted): 0.962312748796761
+SVC(C=85.24697650494926, cache_size=200, class_weight=None, coef0=0.0,
+  decision_function_shape='ovr', degree=3, gamma=0.09749160969124938,
+  kernel='rbf', max_iter=-1, probability=False, random_state=None,
+  shrinking=True, tol=0.001, verbose=False)
+SVMlinearNoneTrue22bBest score make_scorer(f1_score, average=weighted): 0.9622760127586246
+SVC(C=42.72111108829347, cache_size=200, class_weight=None, coef0=0.0,
+  decision_function_shape='ovr', degree=3, gamma='auto', kernel='linear',
+  max_iter=-1, probability=False, random_state=None, shrinking=True,
+  tol=0.001, verbose=False)

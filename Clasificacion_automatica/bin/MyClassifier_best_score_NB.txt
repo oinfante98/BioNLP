@@ -1,0 +1,144 @@
+MultinomialNBlinearNoneTrue11bBest score make_scorer(f1_score, average=weighted): 0.962312748796761
+MultinomialNB(alpha=2.6824543463021375, class_prior=None, fit_prior=True)
+MultinomialNBlinearNoneTrue11bBest score make_scorer(f1_score, average=weighted): 0.9622943842815758
+MultinomialNB(alpha=0.18690283939200014, class_prior=None, fit_prior=True)
+MultinomialNBlinearNoneTrue11bBest score make_scorer(f1_score, average=weighted): 0.9554627362462005
+MultinomialNB(alpha=2.3075605488737807, class_prior=None, fit_prior=True)
+MultinomialNBlinearNoneTrue11bBest score make_scorer(f1_score, average=weighted): 0.9584968493359918
+MultinomialNB(alpha=4.129993010007995, class_prior=None, fit_prior=True)
+MultinomialNBlinearNoneTrue11tBest score make_scorer(f1_score, average=weighted): 0.962312748796761
+MultinomialNB(alpha=1.7961698733780633, class_prior=None, fit_prior=True)
+MultinomialNBlinearNoneTrue11tBest score make_scorer(f1_score, average=weighted): 0.962312748796761
+MultinomialNB(alpha=0.25782611216684287, class_prior=None, fit_prior=True)
+MultinomialNBlinearNoneTrue11tBest score make_scorer(f1_score, average=weighted): 0.9622760197663905
+MultinomialNB(alpha=2.7988663077141336, class_prior=None, fit_prior=True)
+MultinomialNBlinearNoneTrue11tBest score make_scorer(f1_score, average=weighted): 0.9622760197663905
+MultinomialNB(alpha=2.323585301992348, class_prior=None, fit_prior=True)
+MultinomialNBlinearNoneTrue11fBest score make_scorer(f1_score, average=weighted): 0.9614901776710586
+MultinomialNB(alpha=0.23147588223976487, class_prior=None, fit_prior=True)
+MultinomialNBlinearNoneTrue11fBest score make_scorer(f1_score, average=weighted): 0.958212000908152
+MultinomialNB(alpha=0.004107134616967799, class_prior=None, fit_prior=True)
+MultinomialNBlinearNoneTrue11fBest score make_scorer(f1_score, average=weighted): 0.9567312530682184
+MultinomialNB(alpha=3.4219427927947126, class_prior=None, fit_prior=True)
+MultinomialNBlinearNoneTrue11fBest score make_scorer(f1_score, average=weighted): 0.9550244462273166
+MultinomialNB(alpha=2.1367652725107056, class_prior=None, fit_prior=True)
+MultinomialNBlinearNoneFalse11bBest score make_scorer(f1_score, average=weighted): 0.962312748796761
+MultinomialNB(alpha=0.6828160501825923, class_prior=None, fit_prior=True)
+MultinomialNBlinearNoneFalse11bBest score make_scorer(f1_score, average=weighted): 0.9622943842815758
+MultinomialNB(alpha=0.4363859526519862, class_prior=None, fit_prior=True)
+MultinomialNBlinearNoneFalse11bBest score make_scorer(f1_score, average=weighted): 0.9577192908627644
+MultinomialNB(alpha=3.895504124650057, class_prior=None, fit_prior=True)
+MultinomialNBlinearNoneFalse11bBest score make_scorer(f1_score, average=weighted): 0.9591811603265091
+MultinomialNB(alpha=4.968048052845149, class_prior=None, fit_prior=True)
+MultinomialNBlinearNoneFalse11tBest score make_scorer(f1_score, average=weighted): 0.962312748796761
+MultinomialNB(alpha=0.7245208990335296, class_prior=None, fit_prior=True)
+MultinomialNBlinearNoneFalse11tBest score make_scorer(f1_score, average=weighted): 0.962312748796761
+MultinomialNB(alpha=0.32646684633603007, class_prior=None, fit_prior=True)
+MultinomialNBlinearNoneFalse11tBest score make_scorer(f1_score, average=weighted): 0.9622576484178972
+MultinomialNB(alpha=2.5102821011360272, class_prior=None, fit_prior=True)
+MultinomialNBlinearNoneFalse11tBest score make_scorer(f1_score, average=weighted): 0.9622760197663905
+MultinomialNB(alpha=4.449947198205116, class_prior=None, fit_prior=True)
+MultinomialNBlinearNoneFalse11fBest score make_scorer(f1_score, average=weighted): 0.961508596959677
+MultinomialNB(alpha=3.5535807855028407, class_prior=None, fit_prior=True)
+MultinomialNBlinearNoneFalse11fBest score make_scorer(f1_score, average=weighted): 0.9566612945654707
+MultinomialNB(alpha=0.12598723985616342, class_prior=None, fit_prior=True)
+MultinomialNBlinearNoneFalse11fBest score make_scorer(f1_score, average=weighted): 0.9568238317496353
+MultinomialNB(alpha=3.9721295322705052, class_prior=None, fit_prior=True)
+MultinomialNBlinearNoneFalse11fBest score make_scorer(f1_score, average=weighted): 0.9542683120133685
+MultinomialNB(alpha=2.6287796851213665, class_prior=None, fit_prior=True)
+MultinomialNBlinearNoneTrue22bBest score make_scorer(f1_score, average=weighted): 0.9625273292798127
+MultinomialNB(alpha=3.142154365974801, class_prior=None, fit_prior=True)
+MultinomialNBlinearNoneTrue22bBest score make_scorer(f1_score, average=weighted): 0.9568232144374847
+MultinomialNB(alpha=2.7434557459408326, class_prior=None, fit_prior=True)
+MultinomialNBlinearNoneTrue22bBest score make_scorer(f1_score, average=weighted): 0.9485136274773147
+MultinomialNB(alpha=2.6741042627247436, class_prior=None, fit_prior=True)
+MultinomialNBlinearNoneTrue22bBest score make_scorer(f1_score, average=weighted): 0.9364821795517849
+MultinomialNB(alpha=2.1988451314844277, class_prior=None, fit_prior=True)
+MultinomialNBlinearNoneTrue22tBest score make_scorer(f1_score, average=weighted): 0.962312748796761
+MultinomialNB(alpha=0.6203231484040997, class_prior=None, fit_prior=True)
+MultinomialNBlinearNoneTrue22tBest score make_scorer(f1_score, average=weighted): 0.9622760197663905
+MultinomialNB(alpha=0.8558211530514989, class_prior=None, fit_prior=True)
+MultinomialNBlinearNoneTrue22tBest score make_scorer(f1_score, average=weighted): 0.962312748796761
+MultinomialNB(alpha=2.1804025416506687, class_prior=None, fit_prior=True)
+MultinomialNBlinearNoneTrue22tBest score make_scorer(f1_score, average=weighted): 0.962312748796761
+MultinomialNB(alpha=2.626430655609442, class_prior=None, fit_prior=True)
+MultinomialNBlinearNoneTrue22fBest score make_scorer(f1_score, average=weighted): 0.9628877723748178
+MultinomialNB(alpha=1.9138912508389252, class_prior=None, fit_prior=True)
+MultinomialNBlinearNoneTrue22fBest score make_scorer(f1_score, average=weighted): 0.9492113784968915
+MultinomialNB(alpha=3.132276840149859, class_prior=None, fit_prior=True)
+MultinomialNBlinearNoneTrue22fBest score make_scorer(f1_score, average=weighted): 0.9490203518077185
+MultinomialNB(alpha=2.783074892998927, class_prior=None, fit_prior=True)
+MultinomialNBlinearNoneTrue22fBest score make_scorer(f1_score, average=weighted): 0.9187955469910342
+MultinomialNB(alpha=1.6766086286482134, class_prior=None, fit_prior=True)
+MultinomialNBlinearNoneFalse22bBest score make_scorer(f1_score, average=weighted): 0.962559522627546
+MultinomialNB(alpha=3.819841692271275, class_prior=None, fit_prior=True)
+MultinomialNBlinearNoneFalse22bBest score make_scorer(f1_score, average=weighted): 0.9573598046121885
+MultinomialNB(alpha=3.1606526462384297, class_prior=None, fit_prior=True)
+MultinomialNBlinearNoneFalse22bBest score make_scorer(f1_score, average=weighted): 0.9563511752350816
+MultinomialNB(alpha=2.901176146643427, class_prior=None, fit_prior=True)
+MultinomialNBlinearNoneFalse22bBest score make_scorer(f1_score, average=weighted): 0.9577155255632235
+MultinomialNB(alpha=3.292943694755218, class_prior=None, fit_prior=True)
+MultinomialNBlinearNoneFalse22tBest score make_scorer(f1_score, average=weighted): 0.962312748796761
+MultinomialNB(alpha=1.5127033839808786, class_prior=None, fit_prior=True)
+MultinomialNBlinearNoneFalse22tBest score make_scorer(f1_score, average=weighted): 0.9622760197663905
+MultinomialNB(alpha=2.676853642444934, class_prior=None, fit_prior=True)
+MultinomialNBlinearNoneFalse22tBest score make_scorer(f1_score, average=weighted): 0.962312748796761
+MultinomialNB(alpha=4.6714040206941565, class_prior=None, fit_prior=True)
+MultinomialNBlinearNoneFalse22tBest score make_scorer(f1_score, average=weighted): 0.962312748796761
+MultinomialNB(alpha=2.8060142902134046, class_prior=None, fit_prior=True)
+MultinomialNBlinearNoneFalse22fBest score make_scorer(f1_score, average=weighted): 0.9628686267125395
+MultinomialNB(alpha=2.6532566807930684, class_prior=None, fit_prior=True)
+MultinomialNBlinearNoneFalse22fBest score make_scorer(f1_score, average=weighted): 0.9473449315325871
+MultinomialNB(alpha=2.6514079470087433, class_prior=None, fit_prior=True)
+MultinomialNBlinearNoneFalse22fBest score make_scorer(f1_score, average=weighted): 0.951397009360236
+MultinomialNB(alpha=1.9374558289901278, class_prior=None, fit_prior=True)
+MultinomialNBlinearNoneFalse22fBest score make_scorer(f1_score, average=weighted): 0.9573779788931692
+MultinomialNB(alpha=3.061442545473249, class_prior=None, fit_prior=True)
+MultinomialNBlinearNoneTrue12bBest score make_scorer(f1_score, average=weighted): 0.9632652803499079
+MultinomialNB(alpha=0.20300942776253636, class_prior=None, fit_prior=True)
+MultinomialNBlinearNoneTrue12bBest score make_scorer(f1_score, average=weighted): 0.9508075557112616
+MultinomialNB(alpha=2.4202951204994534, class_prior=None, fit_prior=True)
+MultinomialNBlinearNoneTrue12bBest score make_scorer(f1_score, average=weighted): 0.9576820441508024
+MultinomialNB(alpha=1.919705877501785, class_prior=None, fit_prior=True)
+MultinomialNBlinearNoneTrue12bBest score make_scorer(f1_score, average=weighted): 0.961651276642103
+MultinomialNB(alpha=4.988047775823147, class_prior=None, fit_prior=True)
+MultinomialNBlinearNoneTrue12tBest score make_scorer(f1_score, average=weighted): 0.962312748796761
+MultinomialNB(alpha=0.4532358068445759, class_prior=None, fit_prior=True)
+MultinomialNBlinearNoneTrue12tBest score make_scorer(f1_score, average=weighted): 0.9622760197663905
+MultinomialNB(alpha=0.8842045266740297, class_prior=None, fit_prior=True)
+MultinomialNBlinearNoneTrue12tBest score make_scorer(f1_score, average=weighted): 0.962312748796761
+MultinomialNB(alpha=3.2525633251922086, class_prior=None, fit_prior=True)
+MultinomialNBlinearNoneTrue12tBest score make_scorer(f1_score, average=weighted): 0.962312748796761
+MultinomialNB(alpha=1.7448680619077672, class_prior=None, fit_prior=True)
+MultinomialNBlinearNoneTrue12fBest score make_scorer(f1_score, average=weighted): 0.9629123048709901
+MultinomialNB(alpha=0.4855267511752129, class_prior=None, fit_prior=True)
+MultinomialNBlinearNoneTrue12fBest score make_scorer(f1_score, average=weighted): 0.9380854031565108
+MultinomialNB(alpha=5.332505142534057, class_prior=None, fit_prior=True)
+MultinomialNBlinearNoneTrue12fBest score make_scorer(f1_score, average=weighted): 0.9604914279992348
+MultinomialNB(alpha=3.6015016780953553, class_prior=None, fit_prior=True)
+MultinomialNBlinearNoneTrue12fBest score make_scorer(f1_score, average=weighted): 0.9616512833963708
+MultinomialNB(alpha=5.301654066978823, class_prior=None, fit_prior=True)
+MultinomialNBlinearNoneFalse12bBest score make_scorer(f1_score, average=weighted): 0.9632652803499079
+MultinomialNB(alpha=0.19947532701455922, class_prior=None, fit_prior=True)
+MultinomialNBlinearNoneFalse12bBest score make_scorer(f1_score, average=weighted): 0.9470826005884738
+MultinomialNB(alpha=1.5743156005428087, class_prior=None, fit_prior=True)
+MultinomialNBlinearNoneFalse12bBest score make_scorer(f1_score, average=weighted): 0.9594213820925245
+MultinomialNB(alpha=3.722256041971382, class_prior=None, fit_prior=True)
+MultinomialNBlinearNoneFalse12bBest score make_scorer(f1_score, average=weighted): 0.9596798023103433
+MultinomialNB(alpha=3.5852460658266225, class_prior=None, fit_prior=True)
+MultinomialNBlinearNoneFalse12tBest score make_scorer(f1_score, average=weighted): 0.962312748796761
+MultinomialNB(alpha=0.2339041405792414, class_prior=None, fit_prior=True)
+MultinomialNBlinearNoneFalse12tBest score make_scorer(f1_score, average=weighted): 0.9622943842815758
+MultinomialNB(alpha=1.819031190191615, class_prior=None, fit_prior=True)
+MultinomialNBlinearNoneFalse12tBest score make_scorer(f1_score, average=weighted): 0.9622943842815758
+MultinomialNB(alpha=2.0050742838580153, class_prior=None, fit_prior=True)
+MultinomialNBlinearNoneFalse12tBest score make_scorer(f1_score, average=weighted): 0.962312748796761
+MultinomialNB(alpha=2.8591993444509027, class_prior=None, fit_prior=True)
+MultinomialNBlinearNoneFalse12fBest score make_scorer(f1_score, average=weighted): 0.9628893532856981
+MultinomialNB(alpha=0.5536019094926029, class_prior=None, fit_prior=True)
+MultinomialNBlinearNoneFalse12fBest score make_scorer(f1_score, average=weighted): 0.9256182276277796
+MultinomialNB(alpha=3.457736137811792, class_prior=None, fit_prior=True)
+MultinomialNBlinearNoneFalse12fBest score make_scorer(f1_score, average=weighted): 0.9579045662978855
+MultinomialNB(alpha=2.9350639954198368, class_prior=None, fit_prior=True)
+MultinomialNBlinearNoneFalse12fBest score make_scorer(f1_score, average=weighted): 0.9606387003742375
+MultinomialNB(alpha=4.770155666789531, class_prior=None, fit_prior=True)

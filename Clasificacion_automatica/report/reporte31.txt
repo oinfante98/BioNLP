@@ -1,0 +1,34 @@
+**********        EVALUATION REPORT     **********
+Reduction: None
+Classifier: SVM
+Kernel: rbf
+Accuracy: 0.9754847950639048
+Precision: 0.9699806202670506
+Recall: 0.9754847950639048
+F-score: 0.963596077400989
+Confusion matrix: 
+[[17704     1]
+ [  444     3]]
+Classification report: 
+             precision    recall  f1-score   support
+
+      OTHER       0.98      1.00      0.99     17705
+         RI       0.75      0.01      0.01       447
+
+avg / total       0.97      0.98      0.96     18152
+
+Best parameters: 
+	C: 7.236797898532485
+	cache_size: 200
+	class_weight: None
+	coef0: 0.0
+	decision_function_shape: 'ovr'
+	degree: 3
+	gamma: 0.27653290890641136
+	kernel: 'rbf'
+	max_iter: -1
+	probability: False
+	random_state: None
+	shrinking: True
+	tol: 0.001
+	verbose: False

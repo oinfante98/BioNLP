@@ -1,0 +1,939 @@
+1.0	opdA	Is Part of	Operon
+1.0	Part	Received	opdA gene of Salmonella enterica serovar Typhimurium
+1.0	Part	Received	opdA gene
+1.0	opdA	Is Part of	Operon Regulated by Heat Shock
+1.0	Part	Received opdA gene	14 June 1999/Accepted 21 October 1999
+1.0	Part	Received opdA gene of Salmonella enterica serovar Typhimurium	14 June 1999/Accepted 21 October 1999
+0.9799618314818073	Salmonella enterica Serovar Typhimurium Gene	Encoding	Protease
+1.0	opdA	Is	Part
+1.0	opdA	Is Part of	Operon Regulated
+1.0	induction	depends on	heat shock sigma factor
+1.0	Transcription	is induced after	temperature shift
+1.0	induction	depends on	heat shock sigma factor encoded
+1.0	induction	depends on	heat shock sigma factor encoded by rpoH htpR gene
+1.0	Transcription	is	induced
+1.0	Salmonella enterica serovar Typhimurium opdA gene	encodes	OpdA
+1.0	Salmonella enterica serovar Typhimurium opdA gene	encodes	metalloprotease oligopeptidase A
+1.0	Salmonella enterica serovar Typhimurium opdA gene	encodes	17
+1.0	opdA	is	homolog of Escherichia coli prlC gene conferred
+1.0	opdA	is homolog of	site of suppressors
+1.0	opdA	is	homolog of Escherichia coli prlC gene conferred by certain signal sequence mutations
+1.0	opdA	is	homolog
+1.0	opdA	is homolog of	site
+1.0	opdA	is	homolog conferred
+1.0	Escherichia coli prlC gene	site of	suppressors
+1.0	opdA	is	homolog conferred by signal sequence mutations
+1.0	opdA	is	homolog of Escherichia coli prlC gene conferred by signal sequence mutations
+1.0	opdA	is	homolog conferred by certain signal sequence mutations
+1.0	opdA	is homolog of	site of suppressors of localization defect
+1.0	opdA	is homolog of	Escherichia coli prlC gene
+1.0	OpdA	is required for	proteolytic processing of phage P22 protein in vivo
+1.0	OpdA	is required for	proteolytic processing of phage P22 protein
+1.0	OpdA	is required for	proteolytic processing
+1.0	OpdA	is required for	processing of phage P22 protein in vivo
+1.0	OpdA	is also required for	processing of phage P22 protein
+1.0	it	can degrade	lpp signal peptide
+1.0	OpdA	is required for	processing in vivo
+1.0	OpdA	is also required for	processing
+1.0	phage P22 protein	of processing is	5
+1.0	OpdA	is also required for	5
+1.0	OpdA	is also required for	proteolytic processing of phage P22 protein in vivo
+1.0	OpdA	is	also required
+1.0	OpdA	is required for	5
+1.0	OpdA	is also required for	processing in vivo
+1.0	OpdA	is also required for	proteolytic processing in vivo
+1.0	OpdA	is required for	processing
+1.0	OpdA	is also required for	proteolytic processing of phage P22 protein
+1.0	OpdA	is also required for	proteolytic processing
+1.0	OpdA	is required for	proteolytic processing in vivo
+1.0	OpdA	is also required for	processing of phage P22 protein in vivo
+1.0	it	can degrade	cleaved lpp signal peptide
+1.0	OpdA	is required for	processing of phage P22 protein
+1.0	OpdA	is	required
+1.0	representatives	is in	animals
+1.0	Comparison	is with	other protein sequences
+1.0	it	is member of	subfamily of Zn metalloproteases with representatives
+1.0	it	is member of	subfamily of Zn metalloproteases with representatives in animals
+1.0	Zn metalloproteases	is with	representatives in animals
+1.0	it	is member of	subfamily of Zn metalloproteases
+1.0	it	is	member
+1.0	it	is member of	subfamily
+1.0	opdA sequence	include	downstream open reading frame of unknown function
+1.0	opdA sequence	include	downstream reading frame of unknown function
+1.0	opdA sequence	include	open reading frame
+1.0	opdA sequence	include	open reading frame of function
+1.0	opdA sequence	include	downstream open reading frame of function
+1.0	opdA sequence	include	yhiQ
+1.0	opdA sequence	include	downstream reading frame of function
+1.0	opdA sequence	include	reading frame of function
+1.0	opdA sequence	include	open reading frame of unknown function
+1.0	opdA sequence	include	ORF
+1.0	opdA sequence	include	reading frame
+1.0	opdA sequence	has	has extended
+1.0	opdA sequence	include	downstream reading frame
+1.0	opdA sequence	include	downstream open reading frame
+1.0	unknown function	of frame is	ORF
+1.0	opdA sequence	has	In study has extended
+1.0	opdA sequence	include	reading frame of unknown function
+1.0	induction	is	dependent
+1.0	opdA	form	operon
+1.0	induction	is dependent on	RpoH
+1.0	yhiQ	form	operon
+1.0	sequence	suggested	presence beginning
+1.0	sequence	suggested	presence
+1.0	we	determined	nucleotide sequence of 997 bp
+1.0	we	determined	nucleotide sequence of additional 997 bp beyond end of opdA
+1.0	we	determined	nucleotide sequence of 997 bp beyond end of opdA
+1.0	we	determined	nucleotide sequence of 997 bp beyond end
+1.0	we	determined	nucleotide sequence of additional 997 bp beyond end
+1.0	we	characterize	ORF
+1.0	we	determined	nucleotide sequence
+1.0	we	determined	nucleotide sequence of additional 997 bp
+1.0	end	beyond bp is	Fig. 1
+0.8032640221154881	encoding	protein of	253 amino acids
+1.0	AF137028	contains	ORF
+1.0	protein	is	translated
+1.0	it	seems Given	strong conservation of amino acid sequence between YhiQ homologs in region of ORF between GTG start codon
+1.0	it	seems Given	strong conservation between YhiQ homologs in region of ORF between GTG start codon
+1.0	protein	is translated	starting
+1.0	it	seems	likely
+1.0	it	seems Given	conservation of amino acid sequence between YhiQ homologs in region of ORF between GTG start codon
+1.0	it	seems Given	strong conservation of amino acid sequence between YhiQ homologs in region
+1.0	it	seems Given	conservation of amino acid sequence between YhiQ homologs in region of ORF
+1.0	it	seems Given	strong conservation between YhiQ homologs in region of ORF
+1.0	it	seems Given	conservation between YhiQ homologs in region of ORF between GTG start codon
+1.0	it	seems Given	conservation between YhiQ homologs in region of ORF
+1.0	it	seems Given	strong conservation of amino acid sequence between YhiQ homologs in region of ORF
+1.0	it	seems Given	strong conservation of amino acid sequence between YhiQ homologs
+1.0	it	seems Given	conservation of amino acid sequence between YhiQ homologs
+1.0	it	seems Given	conservation of amino acid sequence
+1.0	it	seems Given	conservation between YhiQ homologs in region
+1.0	it	seems Given	strong conservation
+1.0	it	seems Given	strong conservation between YhiQ homologs in region
+1.0	YhiQ homologs	is in	region of ORF between GTG start codon
+1.0	it	seems Given	strong conservation between YhiQ homologs
+1.0	it	seems Given	strong conservation of amino acid sequence
+1.0	it	seems Given	conservation between YhiQ homologs
+1.0	it	seems Given	conservation of amino acid sequence between YhiQ homologs in region
+1.0	protein	is translated	starting with GTG
+1.0	protein	starting with	GTG
+1.0	it	seems Given	conservation
+1.0	two repetitive extragenic palindromic sequences	is in	inverted orientation
+1.0	Department	University at	Urbana-Champaign
+1.0	Department	University of	Illinois
+1.0	Microbiology	University of	Illinois
+1.0	Microbiology	University at	Urbana-Champaign
+1.0	Comparison	identiﬁed	three hypothetical proteins
+1.0	Comparison	identiﬁed	three similar hypothetical proteins
+1.0	Comparison	is with	sequence data-bases
+1.0	E. coli yhiQ gene	is	located immediately downstream from prlC
+1.0	E. coli yhiQ gene	is	located immediately downstream
+1.0	E. coli yhiQ gene	is	located
+1.0	E. coli yhiQ gene	is	located downstream from prlC
+1.0	E. coli yhiQ gene	is	located downstream
+1.0	putative homologs	are unlinked In	H. inﬂuenzae
+1.0	putative homologs	are	unlinked
+1.0	opdA	constitute	operon
+1.0	yhiQ	constitute	operon
+1.0	probe	hybridized	shown in Fig. 2
+1.0	probe	shown in	Fig. 2
+1.0	opdA-speciﬁc probe	hybridized to	two transcripts
+1.0	probe	hybridized	shown
+1.0	probe	hybridized to	two transcripts
+1.0	opdA-speciﬁc probe	shown in	Fig. 2
+1.0	opdA-speciﬁc probe	hybridized	shown in Fig. 2
+1.0	opdA-speciﬁc probe	hybridized	shown
+1.0	yhiQ-speciﬁc probe	However hybridized to	3-kb transcript
+1.0	yhiQ-speciﬁc probe	hybridized to	3-kb transcript
+1.0	yhiQ-speciﬁc probe	hybridized to	transcript
+1.0	yhiQ-speciﬁc probe	However hybridized to	only transcript
+1.0	yhiQ-speciﬁc probe	However hybridized to	only 3-kb transcript
+1.0	yhiQ-speciﬁc probe	However hybridized to	transcript
+1.0	yhiQ-speciﬁc probe	hybridized to	only 3-kb transcript
+1.0	yhiQ-speciﬁc probe	hybridized to	only transcript
+1.0	sizes	are	consistent
+1.0	sizes	are consistent with	lengths of opdA ORF
+1.0	sizes	are consistent with	lengths
+1.0	opdA	is	ﬁrst gene
+1.0	ﬁrst gene	is in	two-gene operon
+1.0	opdA	is	ﬁrst gene in two-gene operon
+1.0	opdA	is	ﬁrst gene in operon
+1.0	operon	is	s32-dependent
+1.0	opdA operon	is	s32-dependent heat shock operon
+1.0	opdA operon	is	heat shock operon
+1.0	near-consensus s32-dependent promoter sequence	is	present upstream from start
+1.0	near-consensus promoter sequence	is	present upstream from start of translation of opdA
+1.0	near-consensus s32-dependent promoter sequence	is	present upstream from start of translation
+1.0	near-consensus promoter sequence	is	present upstream
+1.0	near-consensus promoter sequence	is	present
+1.0	near-consensus s32-dependent promoter sequence	is	present upstream from start of translation of opdA
+1.0	near-consensus s32-dependent promoter sequence	is	present upstream
+1.0	near-consensus promoter sequence	is	present upstream from start of translation
+1.0	near-consensus promoter sequence	is	present upstream from start
+1.0	near-consensus s32-dependent promoter sequence	is	present
+1.0	start	determine	could opdA promoter
+1.0	start	was determined by	primer extension analysis
+1.0	start	was	determined
+1.0	start	was determined	determine
+1.0	sequence	could	could opdA promoter
+1.0	initial nucleotide	was found	to
+1.0	nucleotide	was found	to
+1.0	initial nucleotide	is in	mRNA
+1.0	initial nucleotide	was	found
+1.0	nucleotide	was	found
+1.0	A	bp of	OpdA translation
+1.0	result	is consistent with	identiﬁcation of s32 promoter sequence as opdA promoter
+1.0	result	is consistent with	identiﬁcation as functional opdA promoter
+1.0	result	is consistent with	identiﬁcation of s32 promoter sequence as functional opdA promoter
+1.0	result	is consistent with	identiﬁcation of s32 promoter sequence
+1.0	result	is consistent with	identiﬁcation
+1.0	result	is	consistent
+1.0	result	is consistent with	identiﬁcation as opdA promoter
+1.0	Northern blot analysis	was done	determine
+1.0	Northern blot analysis	was done with	RNA isolated from strains
+1.0	Northern blot analysis	determine	dependent on s32
+1.0	expression	was dependent on	s32
+1.0	Northern blot analysis	was done with	RNA isolated
+0.4589380900080231	RNA	isolated from	strains
+1.0	Northern blot analysis	lacking	RpoH
+1.0	Northern blot analysis	lacking	functional RpoH
+1.0	Northern blot analysis	was done with	RNA
+1.0	Northern blot analysis	determine	dependent
+1.0	expression	was	dependent
+1.0	Northern blot analysis	was	done
+1.0	E. coli strains	is with	three different rpoH alleles
+1.0	total RNA	was isolated from	samples
+1.0	RNA	was isolated from	samples taken
+1.0	total RNA	was isolated from	samples taken at various times after shift
+1.0	total RNA	was isolated from	samples taken at times after shift
+1.0	RNA	was isolated from	samples taken at times
+1.0	Cells	were grown at	30 °C
+1.0	RNA	was isolated from	samples taken at various times
+1.0	RNA	was isolated from	samples taken at various times after shift
+1.0	RNA	was isolated from	samples
+1.0	RNA	was isolated from	samples taken after shift
+1.0	total RNA	was isolated from	samples taken
+1.0	total RNA	was isolated from	samples taken at times
+1.0	RNA	was	isolated
+1.0	Cells	were	grown
+1.0	total RNA	was isolated from	samples taken after shift
+1.0	total RNA	was	isolated
+1.0	total RNA	was isolated from	samples taken at various times
+1.0	RNA	was isolated from	samples taken at times after shift
+1.0	Cells	shifted to	42 °C
+1.0	RNA	transferred	described above
+1.0	RNA	transferred to	nylon membrane
+1.0	RNA	was fractionated by	agarose-formaldehyde gel electrophoresis
+1.0	RNA	transferred	described
+1.0	RNA	was fractionated by	gel electrophoresis
+1.0	RNA	was	fractionated
+1.0	membrane	was probed with	radiolabeled opdA probe
+1.0	membrane	was probed with	opdA probe
+1.0	membrane	was	probed
+1.0	opdA transcription	increases	shown
+1.0	opdA transcription	increases	shown in Fig. 5
+1.0	opdA transcription	shown in	Fig. 5
+1.0	transient induction	requires	s32
+1.0	opdA transcription	increases after	temperature upshift
+1.0	transient induction	requires	rpoH gene product
+1.0	induction	requires	s32
+1.0	induction	requires	rpoH gene product
+1.0	yhiQ	are	indeed unidentiﬁed heat shock genes
+1.0	yhiQ	are	Thus unidentiﬁed heat shock genes
+1.0	opdA	are	previously unidentiﬁed heat shock genes
+1.0	opdA	are	Thus previously unidentiﬁed heat shock genes
+1.0	yhiQ	are	Thus previously unidentiﬁed heat shock genes
+1.0	yhiQ	are	unidentiﬁed heat shock genes
+1.0	opdA	are	indeed unidentiﬁed heat shock genes
+1.0	opdA	are	indeed heat shock genes
+1.0	yhiQ	are	indeed heat shock genes
+1.0	yhiQ	are	Thus indeed previously unidentiﬁed heat shock genes
+1.0	opdA	are	indeed previously unidentiﬁed heat shock genes
+1.0	opdA	are	Thus indeed heat shock genes
+1.0	opdA	are	Thus indeed previously unidentiﬁed heat shock genes
+1.0	yhiQ	are	Thus indeed unidentiﬁed heat shock genes
+1.0	opdA	are	heat shock genes
+1.0	yhiQ	are	previously unidentiﬁed heat shock genes
+1.0	yhiQ	are	Thus heat shock genes
+1.0	opdA	are	unidentiﬁed heat shock genes
+1.0	opdA	are	Thus unidentiﬁed heat shock genes
+1.0	opdA	are	Thus indeed unidentiﬁed heat shock genes
+1.0	yhiQ	are	indeed previously unidentiﬁed heat shock genes
+1.0	opdA	are	Thus heat shock genes
+1.0	yhiQ	are	heat shock genes
+1.0	yhiQ	are	Thus indeed heat shock genes
+1.0	cell	in	response to stress
+1.0	role	is	unknown
+1.0	role	is in	cell 's response to stress
+1.0	YhiQ	appears	unnecessary for OpdA function
+1.0	insertion mutation	is in	opdA
+1.0	YhiQ	appears	unnecessary
+1.0	degradation	is	major component
+1.0	Several protease genes	be part of	heat shock regulon
+1.0	protease genes	are known	part
+1.0	Several other protease genes	is in	E. coli
+1.0	degradation	is major component of	7
+1.0	it	seems	likely
+1.0	Several other protease genes	are	known
+1.0	Several other protease genes	be part of	heat shock regulon
+1.0	other protease genes	be	part
+1.0	degradation	is	major
+1.0	degradation	is component of	7
+1.0	protease genes	be part of	heat shock regulon
+1.0	degradation	is component of	heat shock response
+1.0	Several protease genes	are	known
+1.0	Several other protease genes	are known	part
+1.0	Several other protease genes	be	part
+1.0	proteins	degradation of is	component
+1.0	Several protease genes	be	part
+1.0	other protease genes	be part of	heat shock regulon
+1.0	misfolded proteins	degradation of is	major component
+1.0	Several protease genes	are known	part
+1.0	other protease genes	are	known
+1.0	other protease genes	are known	part
+1.0	misfolded proteins	degradation of is	component
+1.0	degradation	is	component
+1.0	proteins	degradation of is	major component
+1.0	protease genes	are	known
+1.0	degradation	is major component of	heat shock response
+1.0	protease genes	be	part
+1.0	identiﬁcation	will clarify	its role
+1.0	identiﬁcation	Perhaps will clarify	its functional role
+1.0	identiﬁcation	will clarify	its functional role
+1.0	identiﬁcation	Perhaps will clarify	its role
+1.0	function	remains	completely mysterious
+1.0	function	remains	mysterious
+1.0	sequence	begins after	end of opdA ORF
+1.0	sequence	begins after	end of opdA ORF at nt 2645
+1.0	sequence	begins immediately after	end of opdA ORF in GenBank sequence accession no
+1.0	sequence	begins after	end of opdA ORF in GenBank sequence accession no
+1.0	sequence	begins immediately after	end of opdA ORF at nt 2645 in GenBank sequence accession no
+1.0	opdA ORF	is in	GenBank sequence accession no
+1.0	sequence	begins after	end
+1.0	sequence	begins immediately after	end of opdA ORF
+1.0	sequence	begins immediately after	end of opdA ORF at nt 2645
+1.0	sequence	begins after	end of opdA ORF at nt 2645 in GenBank sequence accession no
+1.0	sequence	begins immediately after	end
+0.9933003775071824	seven T	's in	next 11 nt
+0.9933003775071824	6-nt loop	's in	next 11 nt
+1.0	underline	indicates	potential transcriptional terminator
+0.9933003775071824	T	's in	next 11 nt
+0.9933003775071824	6-bp stem	's in	next 11 nt
+0.9933003775071824	loop	's in	11 nt
+0.9933003775071824	T	's in	11 nt
+1.0	double underline	indicates	potential terminator
+1.0	underline	indicates	potential terminator
+0.9933003775071824	stem	's in	11 nt
+0.9933003775071824	6-nt loop	's in	11 nt
+0.9933003775071824	stem	's in	next 11 nt
+0.9933003775071824	seven T	's in	11 nt
+1.0	double underline	indicates	potential transcriptional terminator
+0.9933003775071824	6-bp stem	's in	11 nt
+0.9933003775071824	loop	's in	next 11 nt
+1.0	potential ribosome binding site	is indicated by	underline
+1.0	potential ribosome binding site	is indicated by	single underline
+1.0	potential ribosome binding site	is	indicated
+1.0	potential ribosome binding site	is present in	opdA coding region
+1.0	potential ribosome binding site	is	present
+1.0	Dashed lines	identify	two REP sequences in orientation
+1.0	lines	identify	two REP sequences
+1.0	Dashed lines	identify	two REP sequences
+1.0	two REP sequences	is in	inverted orientation
+1.0	Dashed lines	identify	two REP sequences in inverted orientation
+1.0	lines	identify	two REP sequences in orientation
+1.0	lines	identify	two REP sequences in inverted orientation
+1.0	vacuum	blotted to	11
+1.0	vacuum	blotted to	nylon membrane
+1.0	Total RNA	was isolated from	TN4465
+1.0	RNA	was isolated from	TN4465
+1.0	RNA	was isolated from	1
+1.0	Total RNA	was isolated from	1
+1.0	RNA	was	isolated
+1.0	Total RNA	was	isolated
+1.0	half	was hybridized to	yhiQ-speciﬁc fragment
+1.0	membrane	was hybridized to	radiolabeled DNA fragment
+1.0	membrane	was hybridized to	1.36-kb opdA-speciﬁc DNA fragment
+1.0	other half	was hybridized to	fragment
+1.0	membrane	was	hybridized
+1.0	membrane	was hybridized to	radiolabeled opdA-speciﬁc DNA fragment
+1.0	membrane	was hybridized to	1.36-kb DNA fragment
+1.0	other half	was	hybridized
+1.0	other half	was hybridized to	0.55-kb fragment
+1.0	membrane	was hybridized to	DNA fragment
+1.0	half	was	hybridized
+1.0	membrane	was hybridized to	opdA-speciﬁc DNA fragment
+1.0	other half	was hybridized to	0.55-kb yhiQ-speciﬁc fragment
+1.0	half	was hybridized to	fragment
+1.0	half	was hybridized to	0.55-kb fragment
+1.0	membrane	was hybridized to	radiolabeled 1.36-kb opdA-speciﬁc DNA fragment
+1.0	other half	was hybridized to	yhiQ-speciﬁc fragment
+1.0	membrane	was hybridized to	radiolabeled 1.36-kb DNA fragment
+1.0	half	was hybridized to	0.55-kb yhiQ-speciﬁc fragment
+1.0	DNA probes	were generated by	PCR ampliﬁcation
+1.0	DNA probes	were	generated
+1.0	DNA probes	labeled with	dATP
+1.0	Hybridization	was conducted at	60 °C
+1.0	Hybridization	was conducted at	60 °C in sodium phosphate
+1.0	Hybridization	was	conducted
+1.0	Hybridization	was conducted at	60 °C in 20 mM sodium phosphate
+1.0	60 °C	is in	20 mM sodium phosphate
+1.0	membrane	was washed	concluding with ﬁnal wash in 0.13 SSC
+1.0	membrane	was washed	concluding in 0.13 SSC
+1.0	membrane	was washed extensively	concluding
+1.0	membrane	was washed extensively	concluding in 0.13 SSC
+1.0	membrane	was washed	concluding with ﬁnal wash
+1.0	membrane	was washed	concluding with wash in 0.13 SSC
+1.0	membrane	was washed	concluding with wash
+1.0	membrane	concluding with	wash
+1.0	membrane	was washed extensively	concluding with ﬁnal wash
+1.0	membrane	concluding in	0.13 SSC
+1.0	membrane	was washed	concluding
+1.0	membrane	was washed extensively	concluding with wash
+1.0	membrane	was washed extensively	concluding with wash in 0.13 SSC
+1.0	membrane	was	washed extensively
+1.0	membrane	was washed extensively	concluding with ﬁnal wash in 0.13 SSC
+1.0	membrane	concluding with	ﬁnal wash
+1.0	membrane	was	washed
+1.0	Bands	were	visualized
+1.0	Bands	were visualized by	autoradiography
+0.47099878894890884	yhiQ message	containing	opdA
+0.31023372886942	message	containing	only opdA
+0.47099878894890884	yhiQ 2.2-kb message	containing	only opdA
+0.47099878894890884	yhiQ 2.2-kb message	containing	opdA
+0.47099878894890884	yhiQ message	containing	only opdA
+0.31023372886942	2.2-kb message	containing	opdA
+0.31023372886942	message	containing	opdA
+0.31023372886942	2.2-kb message	containing	only opdA
+1.0	positions	are	indicated
+1.0	band	may represent	degraded fragment
+1.0	weaker band	third may represent	partially degraded fragment of opdA message
+1.0	weaker band	may represent	fragment
+1.0	weaker band	third may represent	degraded fragment
+1.0	weaker band	may represent	partially degraded fragment
+1.0	weaker band	third may represent	fragment
+1.0	band	third may represent	degraded fragment
+1.0	band	third may represent	partially degraded fragment of opdA message
+1.0	weaker band	third may represent	fragment of opdA message
+1.0	band	third may represent	fragment
+1.0	weaker band	may represent	partially degraded fragment of opdA message
+1.0	band	may represent	degraded fragment of opdA message
+1.0	weaker band	may represent	degraded fragment of opdA message
+1.0	band	may represent	partially degraded fragment
+1.0	band	may represent	fragment
+1.0	weaker band	third may represent	degraded fragment of opdA message
+1.0	band	third may represent	partially degraded fragment
+1.0	band	third may represent	degraded fragment of opdA message
+1.0	weaker band	third may represent	partially degraded fragment
+1.0	band	may represent	fragment of opdA message
+1.0	band	may represent	partially degraded fragment of opdA message
+1.0	band	third may represent	fragment of opdA message
+1.0	weaker band	may represent	degraded fragment
+1.0	weaker band	may represent	fragment of opdA message
+1.0	Strain TN4465	incubated to	optical density at 600 nm of 0.4
+1.0	Strain TN4465	incubated at	30 °C
+1.0	Strain TN4465	was	grown
+1.0	Strain TN4465	was grown at	30 °C
+1.0	Strain TN4465	incubated to	density at 600 nm of 0.4
+1.0	Strain TN4465	was grown overnight at	30 °C
+1.0	Strain TN4465	incubated to	optical density
+1.0	Strain TN4465	was	grown overnight
+1.0	Strain TN4465	diluted	1:100
+1.0	Strain TN4465	incubated to	optical density at 600 nm
+1.0	Strain TN4465	incubated to	density
+1.0	Strain TN4465	incubated to	density at 600 nm
+1.0	culture	was shifted to	42 °C
+1.0	culture	was	then shifted for 10 min
+1.0	total RNA	using	Qiagen 's RNeasy Mini kit
+1.0	culture	was	shifted
+1.0	Qiagen	has	RNeasy Mini kit
+1.0	RNA	was	isolated
+1.0	culture	was	then shifted to 42 °C
+1.0	culture	was	shifted to 42 °C for 10 min
+1.0	culture	was	then shifted
+1.0	culture	was shifted for	10 min
+1.0	RNA	using	Qiagen 's RNeasy Mini kit
+1.0	total RNA	was	isolated
+1.0	culture	was	then shifted to 42 °C for 10 min
+0.9617155785304962	25-nt primer	complementary to	627 GenBank sequence accession
+0.9617155785304962	primer	complementary to	627 GenBank sequence accession
+0.9617155785304962	primer	complementary to	627 of GenBank sequence accession
+0.9617155785304962	25-nt primer	complementary to	nt 603
+0.9617155785304962	primer	complementary to	nt 603
+0.9617155785304962	25-nt primer	complementary to	627 of GenBank sequence accession
+1.0	product	is shown in	lane PE
+1.0	M84574	was	used
+1.0	M84574	was used for	extension
+1.0	product	is	shown
+1.0	Lanes	contain	sequence reactions generated with primer
+1.0	Lanes	contain	sequence reactions
+1.0	Lanes	contain	sequence reactions generated with same primer
+1.0	Lanes	contain	sequence reactions generated
+1.0	Radioactivity	was detected by	autoradiography by use of Molecular Dynamics Storm 860 PhosphorImager
+1.0	Radioactivity	was detected by	autoradiography by use of Dynamics Storm 860 PhosphorImager
+1.0	Radioactivity	was detected in	addition
+1.0	Radioactivity	was detected by	autoradiography
+1.0	Radioactivity	was	detected by autoradiography in addition by use of Dynamics Storm 860 PhosphorImager
+1.0	Radioactivity	was	detected by autoradiography in addition by use
+1.0	Radioactivity	was	detected by autoradiography in addition by use of Molecular Dynamics Storm 860 PhosphorImager
+1.0	Radioactivity	was detected by	autoradiography by use
+1.0	Radioactivity	was	detected
+1.0	Radioactivity	was	detected by autoradiography in addition
+1.0	transcription start	is in	DNA sequence shown on left
+1.0	asterisk	indicates	transcription start in DNA sequence shown
+1.0	asterisk	indicates	transcription start in DNA sequence shown on left
+1.0	asterisk	indicates	transcription start
+1.0	asterisk	indicates	transcription start in DNA sequence
+1.0	consensus sequence	is from	reference 8
+1.0	underline	corresponds to	nt 548
+1.0	double underline	corresponds to	nt 548
+1.0	double underline	determined by	primer extension analysis
+1.0	double underline	indicates	59 end of opdA mRNA
+1.0	underline	corresponds in	GenBank sequence accession no
+1.0	double underline	corresponds in	GenBank sequence accession no
+1.0	underline	indicates	59 end
+1.0	underline	determined by	primer extension analysis
+1.0	double underline	indicates	59 end
+1.0	underline	indicates	59 end of opdA mRNA
+1.0	We	performing	primer extension experiment
+1.0	We	thank	Tina Knox
+1.0	We	performing	John Cronan
+1.0	We	performing	Carol Gross
+1.0	National Institute	from grant is	AI10333
+1.0	work	was supported by	grant from National Institute
+1.0	work	was supported by	AI10333
+1.0	work	was supported by	grant from National Institute for Allergy
+1.0	work	was supported by	grant
+1.0	work	was	supported
+1.0	two functional gal promoters	is in	intact Escherichia coli cells
+1.0	opdA	of sequence is	gene encoding in Salmonella typhimurium
+1.0	Escherichia coli prlC	encodes	endopeptidase
+1.0	Oligopeptidase A	is required for	phage P22 development
+1.0	Oligopeptidase A	is required for	normal phage P22 development
+1.0	Oligopeptidase A	is	required
+0.8032640221154881	affecting	synthesis of	major protein
+0.8032640221154881	affecting	synthesis of	protein
+1.0	temperature sensitive nonsense mutation	affecting	synthesis of major protein
+1.0	temperature sensitive nonsense mutation	affecting	synthesis of protein of Escherichia coli K12
+1.0	temperature nonsense mutation	affecting	synthesis of major protein of Escherichia coli K12
+1.0	temperature nonsense mutation	affecting	synthesis of major protein
+1.0	temperature sensitive nonsense mutation	affecting	synthesis of major protein of Escherichia coli K12
+1.0	temperature nonsense mutation	affecting	synthesis
+1.0	temperature nonsense mutation	affecting	synthesis of protein of Escherichia coli K12
+1.0	temperature sensitive nonsense mutation	affecting	synthesis of protein
+1.0	temperature sensitive nonsense mutation	affecting	synthesis
+1.0	temperature nonsense mutation	affecting	synthesis of protein
+0.8032640221154881	affecting	synthesis of	protein of Escherichia coli K12
+0.8032640221154881	affecting	synthesis of	major protein of Escherichia coli K12
+1.0	suppressor	is in	Escherichia coli K12
+1.0	prlC	suppressor of	signal sequence mutations
+1.0	prlC	suppressor in	Escherichia coli K12
+1.0	PrlC	suppressor of	signal sequence mutations
+1.0	suppressor	is in	Escherichia coli
+1.0	PrlC	suppressor in	Escherichia coli
+1.0	PrlC	can direct insertion into	membrane
+1.0	PrlC	can direct	insertion of signal sequence
+0.999141451558101	PrlC	suppressor of	signal sequence mutations
+0.999141451558101	PrlC	suppressor in	Escherichia coli
+1.0	PrlC	can direct	insertion
+1.0	Codon usage	tabulated from	GenBank sequence data
+1.0	Codon usage	tabulated from	GenBank genetic sequence data
+1.0	1786.2001 Copyright © 2001	Society for	Microbiology
+1.0	apeE Gene	Is Induced by	Phosphate Limitation
+1.0	30 November 2000 Mutations	is in	apeR
+1.0	TODD SEGAR Department	locus of	outer membrane esterase apeE from Salmonella enterica serovar Typhimurium
+1.0	apeE Gene	Regulated by	SENG L. TAN
+1.0	apeE Gene	Is	Induced
+1.0	apeE Gene	Regulated by	phoBR CHRISTOPHER A. CONLIN
+1.0	Biological Sciences	of Department is	regulatory locus
+1.0	Expression	was induced by	phosphate limitation
+1.0	induction	required	phoBR phosphate regulatory system
+1.0	Expression	was	induced
+1.0	induction	required	phoBR phosphate system
+1.0	apeE gene	encodes	outer membrane esterase
+1.0	apeE gene	encodes	membrane esterase
+1.0	gene	has	has sequenced
+1.0	LipI	lipase from	insect pathogen Photorhabdus luminescens
+1.0	initial identiﬁcation	is in	unlinked locus
+1.0	60-fold increase	is in	apeE transcription
+1.0	it	was gene for	transcriptional repressor
+1.0	it	was	gene
+1.0	They	named	locus apeR
+1.0	it	was gene for	transcriptional repressor of apeE
+1.0	it	was gene for	repressor
+1.0	They	named	regulatory locus apeR
+1.0	it	was gene for	repressor of apeE
+1.0	we	cloned	apeR gene
+1.0	apeR mutations	are	alleles
+1.0	we	cloned apeR gene In	study
+1.0	induction	is dependent on	phoBR regulatory system
+1.0	induction	is dependent on	phoBR system
+1.0	induction	is	dependent
+1.0	apeE expression	is induced by	phosphate limitation
+1.0	apeE expression	is	induced
+1.0	lacZYA fusion	forms colonies on	MacConkey agar
+1.0	lacZYA fusion	consequently forms colonies on	MacConkey agar
+1.0	lacZYA fusion	consequently forms	white colonies
+1.0	lacZYA fusion	consequently forms	colonies
+1.0	lacZYA fusion	forms	white colonies
+1.0	lacZYA fusion	forms	colonies
+1.0	colonies	are	red
+1.0	apeR1 mutation	increases to	225 U
+1.0	apeR gene	fusion in	apeE
+1.0	original MudI fusion	is in	apeE
+1.0	Plasmid libraries	were	screened
+1.0	different plasmids	were	isolated
+1.0	Three different plasmids	were	isolated
+1.0	they	were integrated by	recombination between cloned DNA on plasmid
+1.0	they	were	integrated into chromosome of polA strain by recombination between cloned DNA on plasmid
+1.0	they	were integrated	demonstrate
+1.0	they	were	integrated into chromosome of polA strain by recombination between DNA on plasmid
+1.0	they	were	integrated into chromosome of polA strain by recombination between DNA
+1.0	they	were integrated into	chromosome
+1.0	they	were	integrated into chromosome by recombination between cloned DNA
+1.0	plasmids	contained	apeR
+1.0	they	were	integrated into chromosome of polA strain by recombination
+1.0	they	were	integrated into chromosome by recombination between cloned DNA on plasmid
+1.0	they	were integrated by	recombination between DNA on plasmid
+1.0	they	were	integrated into chromosome of polA strain by recombination between cloned DNA
+1.0	they	were	integrated
+1.0	they	were	integrated into chromosome by recombination between DNA on plasmid
+1.0	they	were	integrated into chromosome by recombination
+1.0	they	were integrated by	recombination between DNA
+1.0	they	were integrated into	chromosome of polA strain
+1.0	they	were integrated by	recombination between cloned DNA
+1.0	they	were	integrated into chromosome by recombination between DNA
+1.0	they	were integrated by	recombination
+1.0	Anti-biotic resistance	was	phage P22
+1.0	resistance	was	phage P22
+1.0	Anti-biotic resistance	was	phage P22 cotransducible
+1.0	resistance	was	phage P22 cotransducible with insertion zic868
+1.0	resistance	was	phage P22 cotransducible
+1.0	Anti-biotic resistance	was	phage P22 cotransducible with insertion zic868
+1.0	DNA	was from	apeR region
+1.0	DNA	was from	apeR region of Salmonella chromosome
+1.0	cloned DNA	was from	apeR region
+1.0	cloned DNA	was from	apeR region of Salmonella chromosome
+1.0	plasmids	shared	fragment
+1.0	plasmids	shared	Fig. 1
+1.0	three plasmids	shared	4.5-kb fragment
+1.0	plasmids	shared	4.5-kb fragment
+1.0	three plasmids	shared	Fig. 1
+1.0	three plasmids	shared	fragment
+1.0	EcoRI site	is in	middle of region
+1.0	Four Tn1000 insertions	were	isolated
+1.0	Tn1000 insertions	were isolated in	insert region of plasmid pAPR3
+1.0	Tn1000 insertions	were	isolated
+1.0	Four Tn1000 insertions	were isolated in	insert region
+1.0	Four Tn1000 insertions	were isolated in	insert region of plasmid pAPR3
+1.0	Tn1000 insertions	were isolated in	insert region
+1.0	DNA sequence	was obtained from	right end of insert in pAPR3
+1.0	DNA sequence	was obtained from	end
+1.0	DNA sequence	was obtained from	end of insert in pAPR3
+1.0	insert	is in	pAPR3
+1.0	DNA sequence	was	obtained
+1.0	DNA sequence	was obtained from	end of insert
+1.0	DNA sequence	was obtained from	right end of insert
+1.0	DNA sequence	was obtained from	right end
+1.0	sequence	was identical to	261 bases
+1.0	sequence	was	93 % identical to 261 bases of pstB gene
+1.0	sequence	was	93 % identical to last 261 bases
+1.0	sequence	was identical to	261 bases of pstB gene
+1.0	sequence	was	93 % identical to 261 bases
+1.0	sequence	was identical to	last 261 bases of pstB gene
+1.0	sequence	was	93 % identical to last 261 bases of pstB gene
+1.0	sequence	was identical to	last 261 bases
+1.0	sequence	was	identical
+1.0	sequence	was identical	93 %
+1.0	ﬁrst 73 bases	is in	E. coli pstSCAB-phoU operon
+1.0	apeR1 mutation	be allele of	pstC
+1.0	apeR1 mutation	be	allele
+1.0	Alignment	is with	restriction map
+1.0	pstSCAB-phoU operon	encodes	phosphate transport system
+1.0	pstSCAB-phoU operon	encodes	high-afﬁnity phosphate transport system
+1.0	Mutations	result in	constitutive expression
+1.0	Mutations	often result in	constitutive expression
+1.0	Mutations	is in	pst operon
+1.0	Mutations	often result in	expression
+1.0	Mutations	result in	expression
+1.0	us	examine	effect on apeE induction
+1.0	us	examine	effect of phosphate limitation
+1.0	us	examine	effect
+1.0	us	examine	effect of phosphate limitation on apeE induction
+0.7407635891036366	lacZYA fusion	was	grown in minimal acid medium with phosphate
+0.7407635891036366	lacZYA fusion	was	grown in minimal morpholinepropanesulfonic acid medium with phosphate
+0.7407635891036366	lacZYA fusion	was grown in	minimal acid medium
+0.7407635891036366	lacZYA fusion	was grown in	morpholinepropanesulfonic acid medium
+0.7407635891036366	lacZYA fusion	was grown in	acid medium
+0.7407635891036366	lacZYA fusion	was grown in	minimal morpholinepropanesulfonic acid medium
+1.0	b-galactosidase activity	was	measured
+0.7407635891036366	lacZYA fusion	was	grown in morpholinepropanesulfonic acid medium with phosphate
+0.7407635891036366	lacZYA fusion	was	grown
+0.7407635891036366	lacZYA fusion	was grown	previously described
+0.7407635891036366	lacZYA fusion	was	grown in acid medium with phosphate
+0.7407635891036366	lacZYA fusion	was grown with	phosphate
+0.7407635891036366	lacZYA fusion	was grown with	0.1 mM
+0.7407635891036366	lacZYA fusion	was grown	described
+1.0	apeE expression	Limiting	phosphate
+1.0	lacZYA fusion	is in	ntrA
+1.0	we	used phage P22 transduction	determine
+0.08525081604622908	we	used	determine
+1.0	apeE	is	regulated
+1.0	we	used	phage P22 transduction
+1.0	b-Galactosidase activity	was	measured
+1.0	b-Galactosidase activity	was measured for	strains in limiting
+1.0	b-Galactosidase activity	was measured for	strains
+1.0	strains	is in	limiting
+1.0	phoBR deletion	eliminating	induction by phosphate limitation
+1.0	phoBR deletion	eliminating	induction
+1.0	phoBR deletion	affected phosphate induction	seen in Table 1
+1.0	phoBR deletion	completely eliminating	induction
+1.0	phoBR deletion	seen in	Table 1
+1.0	phoBR deletion	affected	phosphate induction
+1.0	phoBR deletion	signiﬁcantly affected	phosphate induction
+1.0	phoBR deletion	signiﬁcantly affected phosphate induction	seen in Table 1
+1.0	phoBR deletion	completely eliminating	induction by phosphate limitation
+1.0	phoBR deletion	affected phosphate induction	seen
+1.0	phoBR deletion	signiﬁcantly affected phosphate induction	seen
+1.0	induction	effect of	apeR mutation
+1.0	apeE	is	member
+1.0	apeE	is	uncharacterized member
+1.0	apeE	is member of	phoBR regulon
+1.0	apeE	is	previously uncharacterized member
+1.0	apeE	is uncharacterized member of	phoBR regulon
+1.0	apeE	is	uncharacterized
+1.0	apeE	is previously uncharacterized member of	phoBR regulon
+1.0	promoters	contain	PHO box
+1.0	promoters	contain PhoB binding site in	235 region
+1.0	promoters	contain	PhoB binding site
+1.0	promoters	contain PhoB binding site in	235 region of promoter
+1.0	consensus PHO box	consists of	two 7-bp repeats separated by a 4-bp
+1.0	consensus PHO box	consists of	two repeats separated by a 4-bp AT spacer
+1.0	consensus PHO box	consists of	two direct repeats separated by a 4-bp AT spacer
+1.0	consensus PHO box	consists of	two direct repeats separated by a 4-bp
+1.0	consensus PHO box	consists of	two direct repeats separated
+1.0	consensus PHO box	consists of	two 7-bp direct repeats separated
+1.0	consensus PHO box	consists of	two 7-bp direct repeats separated by a 4-bp AT spacer
+1.0	consensus PHO box	consists of	two 7-bp repeats
+1.0	consensus PHO box	consists of	two repeats separated
+1.0	consensus PHO box	consists of	two 7-bp repeats separated
+1.0	consensus PHO box	consists of	two direct repeats separated by a
+1.0	consensus PHO box	consists of	two 7-bp direct repeats separated by a 4-bp
+1.0	consensus PHO box	consists of	two 7-bp direct repeats
+1.0	consensus PHO box	consists of	two repeats
+1.0	consensus PHO box	consists of	two 7-bp repeats separated by a 4-bp AT spacer
+1.0	consensus PHO box	consists of	two 7-bp direct repeats separated by a
+1.0	consensus PHO box	consists of	two repeats separated by a
+1.0	consensus PHO box	consists of	two repeats separated by a 4-bp
+1.0	consensus PHO box	consists of	two direct repeats
+1.0	consensus PHO box	consists of	two 7-bp repeats separated by a
+1.0	we	performed deletion analysis	begin
+1.0	we	performed	deletion analysis of promoter region
+1.0	we	performed	deletion analysis
+1.0	We	generate	fragments with constant 39 end 1413 nucleotides downstream of start
+1.0	We	used	PCR
+1.0	We	generate	fragments with constant 39 end downstream
+1.0	We	generate	fragments with 39 end 1413 nucleotides downstream of start of translation
+1.0	We	used PCR	indicated
+1.0	We	generate	fragments with 39 end
+1.0	We	used PCR	indicated in Fig. 2
+1.0	We	generate	fragments with 39 end 1413 nucleotides downstream
+0.08525081604622908	We	used	indicated in Fig. 2
+1.0	We	generate	fragments
+1.0	We	generate	fragments with constant 39 end downstream of start
+1.0	We	generate	fragments with constant 39 end 1413 nucleotides downstream of start of translation
+1.0	We	generate	fragments with 39 end downstream of start of translation
+0.08525081604622908	We	used	indicated
+1.0	We	generate	fragments with constant 39 end 1413 nucleotides downstream
+1.0	We	generate	fragments with 39 end downstream
+1.0	We	generate	fragments with constant 39 end downstream of start of translation
+1.0	We	indicated in	Fig. 2
+1.0	We	generate	fragments with constant 39 end
+1.0	fragments	is with	constant 39 end 1413 nucleotides downstream of start of translation
+1.0	We	generate	fragments with 39 end 1413 nucleotides downstream of start
+1.0	We	generate	fragments with 39 end downstream of start
+1.0	they	control	expression
+1.0	they	control	expression of lac operon
+1.0	fragments	were inserted into	13
+1.0	they	control	expression of promoter-less lac operon
+1.0	fragments	were	inserted
+0.7776651816845286	they	expression of	promoter-less lac operon
+0.7776651816845286	they	expression of	lac operon
+1.0	Plasmid-containing strains	were	grown
+1.0	b-galactosidase activity	was	determined
+1.0	strains	were	grown
+1.0	successive removal	reduced phosphate induction	shown
+1.0	successive removal	reduced	phosphate induction
+0.01311160545069101	removal	reduced	shown in Fig. 2
+0.01311160545069101	removal	reduced	shown
+1.0	successive removal	reduced phosphate induction	shown in Fig. 2
+1.0	removal	reduced	phosphate induction
+1.0	successive removal	shown in	Fig. 2
+0.01311160545069101	successive removal	reduced	shown in Fig. 2
+0.01311160545069101	successive removal	reduced	shown
+1.0	removal	reduced phosphate induction	shown
+1.0	removal	reduced phosphate induction	shown in Fig. 2
+1.0	removal	shown in	Fig. 2
+1.0	subclone F	is with	one complete half-site
+1.0	Subclones	were	essentially uninduc-ible
+1.0	identiﬁcation	is in	apeE promoter region
+1.0	results	support	identiﬁcation in apeE promoter region
+1.0	results	support	identiﬁcation of putative PHO boxes in apeE promoter region
+1.0	results	support	identiﬁcation of putative PHO boxes
+1.0	results	support	identiﬁcation
+1.0	Further analysis	will	will needed
+1.0	analysis	will	will needed
+1.0	site-directed mutagenesis	is with	PhoB protein
+1.0	differences	were caused by	copy number of plasmids in approximately 600 bp between MudI-1734 insertion site
+1.0	differences	were probably caused by	copy number in approximately 600 bp between MudI-1734 insertion site
+1.0	differences	were caused by	copy number in approximately 600 bp
+1.0	differences	were caused by	increased copy number of plasmids
+1.0	differences	were caused by	copy number
+1.0	differences	were probably caused by	increased copy number of plasmids
+1.0	differences	were probably caused by	increased copy number of plasmids in approximately 600 bp between MudI-1734 insertion site
+1.0	differences	were probably caused by	copy number of plasmids in approximately 600 bp
+1.0	differences	were caused by	copy number in approximately 600 bp between MudI-1734 insertion site
+1.0	differences	were probably caused by	increased copy number
+1.0	increased copy number	is in	approximately 600 bp between MudI-1734 insertion site
+1.0	differences	were probably caused by	copy number of plasmids in approximately 600 bp between MudI-1734 insertion site
+1.0	differences	were caused by	copy number of plasmids in approximately 600 bp
+1.0	differences	were probably caused by	increased copy number in approximately 600 bp between MudI-1734 insertion site
+1.0	differences	were	caused
+1.0	differences	were probably caused by	increased copy number in approximately 600 bp
+1.0	differences	were caused by	increased copy number in approximately 600 bp between MudI-1734 insertion site
+1.0	differences	were caused by	copy number of plasmids
+1.0	differences	were probably caused by	copy number
+1.0	differences	were probably caused by	increased copy number of plasmids in approximately 600 bp
+1.0	differences	were probably caused by	copy number in approximately 600 bp
+1.0	differences	were	probably caused
+1.0	differences	were probably caused by	copy number of plasmids
+1.0	differences	were caused by	increased copy number in approximately 600 bp
+1.0	differences	were caused by	increased copy number
+1.0	differences	is in	induction ratios between plasmids
+1.0	differences	were caused by	increased copy number of plasmids in approximately 600 bp between MudI-1734 insertion site
+1.0	differences	were caused by	increased copy number of plasmids in approximately 600 bp
+1.0	apeE	play role in	use of phospholipids
+1.0	apeE	play role in	use of phospholipids as phosphate sources
+1.0	apeE	play	important role
+1.0	apeE	play role in	use
+1.0	apeE	play	role
+1.0	apeE	play role in	use as phosphate sources
+1.0	ApeE deacylation	products of be	would sn-glycerol-3-phosphate
+1.0	products	would	would sn-glycerol-3-phosphate
+1.0	organic phosphate sources	are transported across	membrane
+1.0	phosphate sources	be	used
+1.0	organic phosphate sources	are	In E. coli transported across membrane by Ugp transport system
+1.0	organic phosphate sources	are transported across	inner membrane
+1.0	organic phosphate sources	are	transported across membrane by Ugp transport system
+1.0	phosphate sources	are	transported
+1.0	phosphate sources	are	In E. coli transported by Ugp transport system
+1.0	organic phosphate sources	be used as	phosphate sources
+1.0	organic phosphate sources	so be used as	phosphate sources
+1.0	phosphate sources	so be used as	phosphate sources
+1.0	phosphate sources	are transported by	Ugp transport system
+1.0	phosphate sources	so be used as	2 5 12
+1.0	phosphate sources	are	transported across membrane by Ugp transport system
+1.0	phosphate sources	so be used as	sole phosphate sources
+1.0	phosphate sources	be used as	phosphate sources
+1.0	phosphate sources	are	In E. coli transported across inner membrane by Ugp transport system
+1.0	organic phosphate sources	be used as	2 5 12
+1.0	phosphate sources	are	In E. coli transported across membrane
+1.0	organic phosphate sources	are transported by	Ugp transport system
+1.0	organic phosphate sources	are transported In	E. coli
+1.0	organic phosphate sources	be	so used
+1.0	organic phosphate sources	so be used as	sole phosphate sources
+1.0	phosphate sources	are	transported across inner membrane by Ugp transport system
+1.0	phosphate sources	are	In E. coli transported across inner membrane
+1.0	organic phosphate sources	are	In E. coli transported by Ugp transport system
+1.0	organic phosphate sources	are	In E. coli transported across inner membrane
+1.0	organic phosphate sources	so be used as	2 5 12
+1.0	organic phosphate sources	are	In E. coli transported across membrane
+1.0	organic phosphate sources	are	transported
+1.0	organic phosphate sources	be used as	sole phosphate sources
+1.0	phosphate sources	are transported In	E. coli
+1.0	phosphate sources	be used as	sole phosphate sources
+1.0	phosphate sources	are transported across	membrane
+1.0	phosphate sources	are transported across	inner membrane
+1.0	phosphate sources	are	In E. coli transported across membrane by Ugp transport system
+1.0	organic phosphate sources	be	used
+1.0	phosphate sources	be	so used
+1.0	phosphate sources	be used as	2 5 12
+1.0	Additional studies	conﬁrm	hypothesis
+1.0	Additional studies	are	needed
+1.0	studies	conﬁrm	hypothesis
+1.0	studies	are	needed
+1.0	Bars	indicate	chromosomal DNA contained on plasmids
+1.0	Bars	indicate	chromosomal DNA contained
+1.0	Bars	indicate	chromosomal DNA
+1.0	Bars	indicate	DNA
+0.7523531100869512	chromosomal DNA	contained on	plasmids
+1.0	Bars	indicate	DNA contained on plasmids
+1.0	Bars	indicate	DNA contained
+0.7523531100869512	DNA	contained on	plasmids
+1.0	Restriction enzyme sites	are	indicated
+1.0	Restriction enzyme sites	are indicated	follows
+1.0	Triangles	indicate	Tn1000 insertions
+1.0	E. coli pstSCAB-phoU operon	is	aligned
+1.0	E. coli pstSCAB-phoU operon	is aligned with	restriction map
+1.0	lacZ fusions	is in	limiting phosphate b-Galactosidase activitya
+1.0	lacZ fusions	is in	Genotype Strain 2 mM
+1.0	limiting phosphate b-Galactosidase activitya	in fusions is	Miller units
+1.0	Genotype Strain 2 mM	in fusions is	Miller units
+1.0	b-galactosidase activity	described by	Miller
+1.0	b-galactosidase activity	was assayed	described by Miller
+1.0	b-galactosidase activity	described by	10
+1.0	b-galactosidase activity	was	assayed
+1.0	b-galactosidase activity	was assayed	described
+1.0	strains	were	assayed FIG. 2
+1.0	assay	was performed in	triplicate
+1.0	strains	were	assayed
+1.0	assay	was	performed
+1.0	strains	were	assayed twice FIG. 2
+1.0	Plasmid strains	were grown on	bars
+1.0	Plasmid strains	were grown on	2 mM
+1.0	Plasmid strains	were grown on	solid bars
+1.0	Plasmid strains	were	grown
+1.0	b-galactosidase activity	was	assayed
+1.0	strain	was assayed at_time	three times
+1.0	strain	was	assayed
+1.0	Assays	were done in	triplicate
+1.0	Assays	were	done
+1.0	Single underlines	indicate	PHO box half-sites
+1.0	underline	indicates	potential 210 region
+1.0	double underline	indicates	potential 210 region
+1.0	underlines	indicate	PHO box half-sites
+1.0	work	was supported by	Public Health Service grant GM52697 to C.A.C.
+1.0	work	was supported by	Public Health Service grant GM52697 from National Institutes to C.A.C.
+1.0	work	was supported by	Public Health Service grant GM52697 from National Institutes
+1.0	work	was supported by	Public Health Service grant GM52697
+1.0	work	was supported by	Public Health Service grant GM52697 from National Institutes of Health to C.A.C.
+1.0	work	was supported by	Public Health Service grant GM52697 from National Institutes of Health
+1.0	work	was	supported
+1.0	We	providing	strains
+1.0	We	thank	B. L. Wanner
+1.0	We	thank	G. Miller
+1.0	We	thank	C. G. Miller
+1.0	apeE gene	encodes	outer membrane esterase
+1.0	apeE gene	encodes	membrane esterase
+0.7079812922846882	affecting	regulated esterase in	Salmonella typhimurium LT2
+1.0	Mutations	affecting	regulated membrane-associated esterase
+1.0	Mutations	affecting	regulated esterase
+0.7079812922846882	affecting	esterase in	Salmonella typhimurium LT2
+1.0	Mutations	affecting	regulated esterase in Salmonella typhimurium LT2
+1.0	Mutations	affecting	membrane-associated esterase in Salmonella typhimurium LT2
+0.7079812922846882	affecting	regulated membrane-associated esterase in	Salmonella typhimurium LT2
+1.0	Mutations	affecting	esterase
+1.0	Mutations	affecting	regulated membrane-associated esterase in Salmonella typhimurium LT2
+0.7079812922846882	affecting	membrane-associated esterase in	Salmonella typhimurium LT2
+1.0	regulated membrane-associated esterase	is in	Salmonella typhimurium LT2
+1.0	Mutations	affecting	esterase in Salmonella typhimurium LT2
+1.0	Mutations	affecting	membrane-associated esterase
+1.0	sn-Glycerol-3-phosphate transport	is in	Salmonella typhimurium
+1.0	Magnesium transport	is in	Salmonella typhimurium
+1.0	Magnesium transport	is in	Salmonella typhimurium
+1.0	its interaction	is with	RNA polymerase
+1.0	Experiments	is in	molecular genetics
+1.0	Regulation	system of	Escherichia coli K-12
+1.0	ugp	of Regulation is	sn-glycerol-3-phosphate transport system
+1.0	phosphorous restriction	is in	Escherichia coli
+1.0	Phase variation	is in	Xenorhabdus luminescens
+1.0	its expression	is in	primary phases of bacterium

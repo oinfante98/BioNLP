@@ -1,5 +1,0 @@
-SVMlinearCHI250True11fBest score make_scorer(f1_score, average=weighted): 0.9806381980596498
-SVC(C=125.93203948150278, cache_size=200, class_weight=None, coef0=0.0,
-  decision_function_shape='ovr', degree=3, gamma='auto', kernel='linear',
-  max_iter=-1, probability=False, random_state=None, shrinking=True,
-  tol=0.001, verbose=False)

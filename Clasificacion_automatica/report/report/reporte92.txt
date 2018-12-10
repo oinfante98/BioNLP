@@ -1,0 +1,5 @@
+SVMlinearCHI250True22bBest score make_scorer(f1_score, average=weighted): 0.982882719497636
+SVC(C=5.456248945542411, cache_size=200, class_weight=None, coef0=0.0,
+  decision_function_shape='ovr', degree=3, gamma='auto', kernel='linear',
+  max_iter=-1, probability=False, random_state=None, shrinking=True,
+  tol=0.001, verbose=False)

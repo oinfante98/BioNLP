@@ -1,0 +1,5 @@
+SVMrbfCHI250False11fBest score make_scorer(f1_score, average=weighted): 0.9828527851996788
+SVC(C=71.82515022927134, cache_size=200, class_weight=None, coef0=0.0,
+  decision_function_shape='ovr', degree=3, gamma=0.03238937328886909,
+  kernel='rbf', max_iter=-1, probability=False, random_state=None,
+  shrinking=True, tol=0.001, verbose=False)
